@@ -1,4 +1,4 @@
-baseURL: http://something-fresh.org/
+baseURL: http://arishtisecurity.com/
 languageCode: en-us
 title: Arishti | Security
 
@@ -44,7 +44,7 @@ params:
     # Button text
     buttontext: Get started
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "#section1"
     # Hero image (from static/images/___)
     image: illustrations/worker.png
     # Footer logos (from static/images/logos/clients/*.svg)
